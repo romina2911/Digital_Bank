@@ -1,7 +1,7 @@
 ### Stakeholders
 
 #### Stakeholders y roles
-####Stakeholders presentes
+#### Stakeholders presentes
 CEO (Chief Executive Officer):
 - ¿Qué tan factible sería realizar el proyecto, considerando aspectos de inversión y de producción?
 - ¿Existe algún supuesto, premisa, restricción o exclusión que tengas que tener en cuenta?
