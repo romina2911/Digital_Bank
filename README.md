@@ -1,4 +1,4 @@
-# BANCO DIGITAL PARA MILLENNILAS Y Z´S:
+# BANCO DIGITAL PARA MILLENNIALS Y Z´S
 
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGNER_
 * **CURSO:** _CONOCIENDO LOS NEGOCIOS_
@@ -26,7 +26,7 @@ Desarrollar un banco 100% digital ágil, sencillo y seguro, en alianza con el ba
 
 
 ### KICK OFF MEETING
-### I.- Objetivos comerciales de la investigación
+### I Objetivos comerciales de la investigación
 
  **Objetivo principal**
 
@@ -41,16 +41,16 @@ Desarrollar un banco 100% digital ágil, sencillo y seguro, en alianza con el ba
  - Conocer las necesidades reales de los millennials y Z’s respectos a sus finanzas personales
  - Definir el problema(s) de a los millennials y Z´s respecto a la banca actual.
 
-### II.- Producto(s)
+### II Producto(s)
 
  - Una aplicación (app) donde se pueda realizar las operaciones bancarias tradicionales de manera ágil, sencilla y segura.
  - Una página web informativa que tenga toda la información sobre el producto y su uso.
 
-### IV.- Usuarios o público objetivo
+### III Usuarios o público objetivo
 
   Millennials y generación Z a partir de 18 años.
 
-### V.- Alcances y Limitaciones
+### IV Alcances y Limitaciones
 
  **Alcances**
 
@@ -65,17 +65,17 @@ Desarrollar un banco 100% digital ágil, sencillo y seguro, en alianza con el ba
     - Muchas zonas rurales o países en vía de desarrollo no cuentan con internet por lo que no podrían acceder a las herramientas de la banca online.
     - Para la banca electrónica online se necesita alta seguridad frente a los hackers.
 
-### VI.- Identificación y Análisis de Riesgos
+### V Identificación y Análisis de Riesgos
 
   [Identificación y análisis de riesgos. Ver punto VI]( https://docs.google.com/document/d/1Bx5KgyJyh1_g8whCYewptTndEMN9ypiBI-OK8CxlH8o/edit#).
 
 ### VI Stakeholders
 
-#### Stakeholders y roles
+#### **Stakeholders y roles**
 
 [Stakeholders y roles]( https://docs.google.com/document/d/1P36IaUvRrr9rEi0UmTbha8Mc_uhNrwZVgh2-zKroSU4/edit)
 
-#### Stakeholders presentes
+#### **Stakeholders presentes**
 
 **CEO (Chief Executive Officer):**
 - ¿Qué tan factible sería realizar el proyecto, considerando aspectos de inversión y de producción?
@@ -117,7 +117,7 @@ Desarrollar un banco 100% digital ágil, sencillo y seguro, en alianza con el ba
 **Asesor legal:**
 - ¿Qué restricciones legales tenemos para desarrollar el proyecto?.
 
-###  VII Presentación del modelo de negocio (Business Model Canvas)
+### VII Presentación del modelo de negocio (Business Model Canvas)
 ![bmc-db](https://user-images.githubusercontent.com/32309909/36926297-f50e4b3c-1e44-11e8-8e91-7a67a94fa50a.jpg)
 
 
