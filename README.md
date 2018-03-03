@@ -1,8 +1,8 @@
 # BANCO DIGITAL PARA MILLENNILAS Y Z´S:
 
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGNER_
-* **CURSO:** _CONCIENDO LOS NEGOCIOS_
-* **UNIDAD 1:** _ LECCIONES BÁSICAS DE NEGOCIOS_
+* **CURSO:** _CONOCIENDO LOS NEGOCIOS_
+* **UNIDAD 1:** _LECCIONES BÁSICAS DE NEGOCIOS_
 
 ***
 ## Equipo de trabajo
@@ -13,6 +13,9 @@
 ***
 ## Objetivo
 Desarrollar un banco 100% digital ágil, sencillo y seguro, en alianza con el banco del país, para los millennials y generación Z a partir de 18 años.
+
+***
+
 ## Entregables versión 1
 - Identificar quiénes son los stakeholders de tu proyecto
 - Planear una reunión de kick off meeting detallando:
@@ -21,9 +24,8 @@ Desarrollar un banco 100% digital ágil, sencillo y seguro, en alianza con el ba
 - Entregar Business Model Canvas (hipotético) del producto "Banco 100% digital" en el kick off meeting.
 - Entregar un research plan.
 
- ***
 
-## KICKOFF MEETING
+### KICK OFF MEETING
 ### I.- Objetivos comerciales de la investigación
 
  **Objetivo principal**
@@ -50,12 +52,12 @@ Desarrollar un banco 100% digital ágil, sencillo y seguro, en alianza con el ba
 
 ### V.- Alcances y Limitaciones
 
-  ** Alcances**
+ **Alcances**
 
     - El proyecto considera solo millennials y generación Z a partir de 18 años.
     - El proyecto considera solo personas que residan en Perú.
 
-  ** Limitaciones**
+  **Limitaciones**
 
     - Depender de la aprobación de los accionistas para arrancar el proyecto
     - Tiempo para conseguir y convencer a los inversionistas
@@ -70,47 +72,49 @@ Desarrollar un banco 100% digital ágil, sencillo y seguro, en alianza con el ba
 ### VI Stakeholders
 
 #### Stakeholders y roles
+
+[Stakeholders y roles]( https://docs.google.com/document/d/1P36IaUvRrr9rEi0UmTbha8Mc_uhNrwZVgh2-zKroSU4/edit)
+
 #### Stakeholders presentes
-CEO (Chief Executive Officer):
+
+**CEO (Chief Executive Officer):**
 - ¿Qué tan factible sería realizar el proyecto, considerando aspectos de inversión y de producción?
 - ¿Existe algún supuesto, premisa, restricción o exclusión que tengas que tener en cuenta?
 
-Gerente de Riesgos:
+**Gerente de Riesgos:**
 - ¿La inversión sería mayor a la ganancia?
 - ¿Cuáles son los principales riesgos asociados al proyecto?
 - ¿Hay futuro para el proyecto?
 
-Gerente de Marketing (CMTO):
+**Gerente de Marketing (CMTO):**
 - ¿Qué estrategias de marketing usaríamos para hacer rentable el producto?
 - ¿Cómo conseguiríamos clientes externos?
 - ¿Cuál es el alcance del proyecto y sus entregables principales?.
 - ¿Qué beneficios, cuál es el valor que aportará a la organización?
-Director de operaciones digitales(CDO):
+
+**Director de operaciones digitales(CDO):**
 - ¿Cuánto costaría realizar el proyecto?
 - ¿De dónde se sacaría la data?
 - ¿Qué recursos podríamos usar para conseguirla (API’s)?
 
-Regulador estatal SBS:
-- ¿Qué restricciones y consideraciones  legales debemos considerar?
-
-Product Manager de banca digital:
+**Product Manager de banca digital:**
 - ¿Cuánto tiempo tomará realizar el proyecto?
 
-CPO (Chief People Officer):
+**CPO (Chief People Officer):**
 - ¿Cuáles son las fechas críticas (hitos) del proyecto?
 - ¿Cuántos profesionales disponibles tenemos para este proyecto?
 
-CXO (Chief Customer Experience Officer):
+**CXO (Chief Customer Experience Officer):**
 - ¿Qué ideas extra aportaría al proyecto?
 - ¿Cuál sería la propuesta para empezar de la mejor manera en el mercado?
 - ¿Cuál es la mejor forma de mapear la experiencia del cliente en todos los puntos de contacto?
 
-Un representante de UX design:
+**Un representante de UX design:**
 - ¿Cuánto tiempo tomaría hacer el research?
 - ¿Cómo plasmarían la solución de los problemas a través del flujo del app?
 - ¿Cómo harían el app lo suficientemente útil y usable?¿Qué tan amigable podría hacerse el app para los millenials y z’s?
 
-Asesor legal:
+**Asesor legal:**
 - ¿Qué restricciones legales tenemos para desarrollar el proyecto?.
 
 ###  VII Presentación del modelo de negocio (Business Model Canvas)
