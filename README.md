@@ -139,3 +139,14 @@ https://docs.google.com/document/d/1sUv8kcMbOo4XrlCj9gU17_05368TvdFVIzppmbtteEU/
 - Será firmada por todos los asistentes.
 
 ![kickoff](https://user-images.githubusercontent.com/32309909/36926369-7049bab6-1e45-11e8-80a9-e17ea723adfc.jpg)
+
+### X Prototipo de baja fidelidad
+Para poder ir materializando nuestras ideas, empezamos con un prototipo de baja fidelidad en el cual empezamos a hacer el flujo de nuestra aplicación e ir testeando. En las siguientes imagenes se pueden ver nuestro protoptipo
+
+![futurebank10008](https://user-images.githubusercontent.com/32309909/37267678-e23fdff0-258f-11e8-8755-173da7a270fc.jpg)
+![futurebank20011](https://user-images.githubusercontent.com/32309909/37267758-401af948-2590-11e8-8e92-5846081fb056.jpg)
+![futurebank30007](https://user-images.githubusercontent.com/32309909/37267822-988cef00-2590-11e8-9caa-d90723735031.jpg)
+![futurebank4](https://user-images.githubusercontent.com/32309909/37267897-0ad13d50-2591-11e8-84dd-89a1cebe5559.jpg)
+![futurebank5](https://user-images.githubusercontent.com/32309909/37267918-25be1606-2591-11e8-8ac9-fd40d8566280.jpg)
+![futurebank6](https://user-images.githubusercontent.com/32309909/37267939-46320f6e-2591-11e8-9d4f-bf1a55e0a51b.jpg)
+
