@@ -266,6 +266,8 @@ https://marvelapp.com/project/2784637/
 
 ### VIII Feedback en la presentación de la propuesta de la aplicación: Future Bank (09-03-18)
 
+ Presentación de la propuesta: Future Bank: https://docs.google.com/presentation/d/140gjTcQ5INy0pZ2Qmx6qJvImixjwxYdC2sSkgr8OO7o/edit#slide=id.p
+
 -	Problema en el contraste: color de fondo con el color de las palabras.
 -	Los colores no son muy adecuados para millennials, se relaciona más con un banco tradicional.
 
