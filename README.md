@@ -161,9 +161,8 @@ Iterar y concluir
 
 -	Entrevistas personales (audio y video):
    - https://drive.google.com/drive/folders/157c3Wc6saYQ02POb8dJWRtWDx9eXGEDo
-   -
-
--	![kickoff]()
+   - https://drive.google.com/drive/folders/157c3Wc6saYQ02POb8dJWRtWDx9eXGEDo
+   - https://drive.google.com/drive/folders/157c3Wc6saYQ02POb8dJWRtWDx9eXGEDo
 
 **Encuesta Online**
 
@@ -236,19 +235,19 @@ Para poder ir materializando el card soarting realizado, empezamos con un protot
 
 **Usuario 1 (19 años)**
 -	No entendía que tenía que hacer click en la parte de “preguntas frecuentes”.
--
--
+- Billetera: Dinero que tiene en su cuenta, no como una ópción para organizar los ingresos.
+- No entendía las barras de en Alcancía y billetera, eran muy pequeñas.
+- No sabía como ver los detalles de cada meta en la opción alcancía.
 
 **Usuario 2 (25 años)**
--
--
--
+- En pagos de servicios no visualiza la ópcion de colocoar N° de suministro o referencia.
+- No sabía como ubicar el detalle ni agregar un "extra a tu meta" de cada meta en la opción alcancía.
 
 **Usuario 2 (27 años)**
 -	No entendía que tenía que hacer click en la parte de “preguntas frecuentes”.
--
--
--
+- En los pagos a servicios: Los servicios fijos agua, luz, tv, etc. Podrían ir iconos de las empresas fijas en vez de una lista, se le hacía más cómodo.
+- Billetera: Nosa bía que era una opción para organizar sus ingreso, entendió como la plata que tiene guardada.
+- "agregar una meta" en opción alcancía lo entendió como un título no más como una opción.
 
 ### VI. Prototipado
 
