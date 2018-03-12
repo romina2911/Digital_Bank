@@ -150,3 +150,16 @@ Para poder ir materializando nuestras ideas, empezamos con un prototipo de baja 
 ![futurebank5](https://user-images.githubusercontent.com/32309909/37267918-25be1606-2591-11e8-8ac9-fd40d8566280.jpg)
 ![futurebank6](https://user-images.githubusercontent.com/32309909/37267939-46320f6e-2591-11e8-9d4f-bf1a55e0a51b.jpg)
 
+
+### XI Protipo de alta fidelidad
+Después de testear nuestro prototipo de baja fidelidad y tener un flujo listo, hicimos nuestro prototipo de alta fidelidad en marvel, para asi poder darle interacción:
+https://marvelapp.com/project/2784637/
+
+### XII Conclusiones
+
+-Los Millennials son personas que necesitan respuestas digitales a sus problemas bancarios para ahorrar tiempo y dinero, para esto es necesario dar seguridad a estas aplicaciones.
+-Los Millennials desean ahorrar, pero no encuentran el método de como hacerlo. El ofrecerles una aplicación que los ayude a lograrlo para así ir alcanzando metas es necesario para ellos.
+-La mayoría se anima por bancos que cobran bajos montos por las transacciones.
+-Las operaciones bancarias más realizadas son pagos de servicios e instituciones y transferencias
+
+
