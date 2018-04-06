@@ -1,5 +1,9 @@
 # BANCO DIGITAL PARA MILLENNIALS Y Z´S
 
+Proyecto de la especialización de UX que propone un banco 100% digital para la generación Milleniall.
+
+![futurebank](https://user-images.githubusercontent.com/32309909/38432357-d3f3cf90-398c-11e8-8597-5c0b4fbdb9ed.png)
+
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGN_
 * **CURSO:** _CONOCIENDO LOS NEGOCIOS_
 * **UNIDAD 1:** _LECCIONES BÁSICAS DE NEGOCIOS_
